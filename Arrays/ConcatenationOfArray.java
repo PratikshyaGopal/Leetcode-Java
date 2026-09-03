@@ -1,4 +1,4 @@
-class ConcatenationOfArray {
+class ConcatenationOfArray{
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
         int[] ans = new int[2*n];
