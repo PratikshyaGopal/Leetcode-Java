@@ -1,3 +1,5 @@
+package Arrays;
+
 /*
  * LeetCode 1470 - Shuffle the Array
  *

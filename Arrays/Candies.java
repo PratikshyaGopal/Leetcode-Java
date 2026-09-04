@@ -1,3 +1,8 @@
+package Arrays;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /*
  * LeetCode 1431 - Kids With the Greatest Number of Candies
  *
