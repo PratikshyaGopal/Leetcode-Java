@@ -9,7 +9,7 @@
  * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
-class Solution {
+class Candies{
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int n = candies.length;
         ArrayList<Boolean> result = new ArrayList<>();
